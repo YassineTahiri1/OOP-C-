@@ -35,8 +35,8 @@ void inverser(int* arr, int n) {
         tmp = *D;
         *D = *F;
         *F = tmp;
-        D++;
-        F--;
+        D++
+        F--
     }
 }
 
